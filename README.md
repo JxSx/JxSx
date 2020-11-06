@@ -29,6 +29,8 @@ I'm Jia Xin, a front-end engineer. I've been engaged in Android development for 
 |Radix Sort|![](https://img.shields.io/badge/-O(nk)-brightgreen)|![](https://img.shields.io/badge/-O(nk)-brightgreen)|![](https://img.shields.io/badge/-O(nk)-brightgreen)|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|YES|
 |Counting Sort	|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|![](https://img.shields.io/badge/-O(k)-brightgreen)|YES|
 |Cubesort	|![](https://img.shields.io/badge/-O(n)-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n)-yellow)||
+
+[Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 <!--
 **JxSx/JxSx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
