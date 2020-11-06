@@ -16,19 +16,19 @@ I'm Jia Xin, a front-end engineer. I've been engaged in Android development for 
 ![](https://img.shields.io/badge/-Excellent-brightgreen)
 |    Algorithm   |Best Time Complexity |Average Time Complexity | Worst Time Complexity |Space Time Complexity| Stability|
 |--|--|--|--|--|--|
-|Insertion Sort|![](https://img.shields.io/badge/-O(n)-yellow)|![](https://img.shields.io/badge/-O(n²)-red)  |![](https://img.shields.io/badge/-O(n²)-red)|![](https://img.shields.io/badge/-O(1)-brightgreen)|YES|
-|Shell Sort|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n*(log(n))²)-red)|![](https://img.shields.io/badge/-O(n*(log(n))²)-red)|![](https://img.shields.io/badge/-O(1)-brightgreen)|NO|
+|Insertion Sort|![](https://img.shields.io/badge/-O(n)-blue)|![](https://img.shields.io/badge/-O(n²)-red)  |![](https://img.shields.io/badge/-O(n²)-red)|![](https://img.shields.io/badge/-O(1)-brightgreen)|YES|
+|Shell Sort|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*(log(n))²)-red)|![](https://img.shields.io/badge/-O(n*(log(n))²)-red)|![](https://img.shields.io/badge/-O(1)-brightgreen)|NO|
 |Selection Sort	|![](https://img.shields.io/badge/-O(n²)-red)|![](https://img.shields.io/badge/-O(n²)-red)|![](https://img.shields.io/badge/-O(n²)-red)|![](https://img.shields.io/badge/-O(1)-brightgreen)|NO|
-|Heapsort|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(1)-brightgreen)|NO|
-|Bubble Sort	|![](https://img.shields.io/badge/-O(n)-yellow)|![](https://img.shields.io/badge/-O(n²)-red)  |![](https://img.shields.io/badge/-O(n²)-red)|![](https://img.shields.io/badge/-O(1)-brightgreen)|YES|
-|Quicksort	|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n²)-red) | ![](https://img.shields.io/badge/-O(log(n))-green)|NO|
-|Mergesort	|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n)-yellow)|YES|
-|Timsort	|![](https://img.shields.io/badge/-O(n)-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n)-yellow)|YES|
-|Tree Sort	|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n²)-red) | ![](https://img.shields.io/badge/-O(n)-yellow)||
-|Bucket Sort	|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|![](https://img.shields.io/badge/-O(n²)-red)|![](https://img.shields.io/badge/-O(n)-yellow)|YES|
+|Heapsort|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(1)-brightgreen)|NO|
+|Bubble Sort	|![](https://img.shields.io/badge/-O(n)-blue)|![](https://img.shields.io/badge/-O(n²)-red)  |![](https://img.shields.io/badge/-O(n²)-red)|![](https://img.shields.io/badge/-O(1)-brightgreen)|YES|
+|Quicksort	|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n²)-red) | ![](https://img.shields.io/badge/-O(log(n))-green)|NO|
+|Mergesort	|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n)-blue)|YES|
+|Timsort	|![](https://img.shields.io/badge/-O(n)-blue)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n)-blue)|YES|
+|Tree Sort	|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n²)-red) | ![](https://img.shields.io/badge/-O(n)-blue)||
+|Bucket Sort	|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|![](https://img.shields.io/badge/-O(n²)-red)|![](https://img.shields.io/badge/-O(n)-blue)|YES|
 |Radix Sort|![](https://img.shields.io/badge/-O(nk)-brightgreen)|![](https://img.shields.io/badge/-O(nk)-brightgreen)|![](https://img.shields.io/badge/-O(nk)-brightgreen)|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|YES|
 |Counting Sort	|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|![](https://img.shields.io/badge/-O(k)-brightgreen)|YES|
-|Cubesort	|![](https://img.shields.io/badge/-O(n)-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n*log(n))-blue)|![](https://img.shields.io/badge/-O(n)-yellow)||
+|Cubesort	|![](https://img.shields.io/badge/-O(n)-blue)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n)-blue)||
 
 [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 <!--
