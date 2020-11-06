@@ -10,8 +10,8 @@ I'm Jia Xin, a front-end engineer. I've been engaged in Android development for 
 
 ## Big O
 ![](https://img.shields.io/badge/-Horrible-red)
-![](https://img.shields.io/badge/-Bad-blue)
-![](https://img.shields.io/badge/-Fair-yellow)
+![](https://img.shields.io/badge/-Bad-yellow)
+![](https://img.shields.io/badge/-Fair-blue)
 ![](https://img.shields.io/badge/-Good-green)
 ![](https://img.shields.io/badge/-Excellent-brightgreen)
 |    Algorithm   |Best Time Complexity |Average Time Complexity | Worst Time Complexity |Space Time Complexity| Stability|
