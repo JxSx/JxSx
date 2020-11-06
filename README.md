@@ -19,16 +19,16 @@ I'm Jia Xin, a front-end engineer. I've been engaged in Android development for 
 |Insertion Sort|![](https://img.shields.io/badge/-O(n)-blue)|![](https://img.shields.io/badge/-O(n²)-red)  |![](https://img.shields.io/badge/-O(n²)-red)|![](https://img.shields.io/badge/-O(1)-brightgreen)|YES|
 |Shell Sort|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*(log(n))²)-red)|![](https://img.shields.io/badge/-O(n*(log(n))²)-red)|![](https://img.shields.io/badge/-O(1)-brightgreen)|NO|
 |Selection Sort	|![](https://img.shields.io/badge/-O(n²)-red)|![](https://img.shields.io/badge/-O(n²)-red)|![](https://img.shields.io/badge/-O(n²)-red)|![](https://img.shields.io/badge/-O(1)-brightgreen)|NO|
-|Heapsort|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(1)-brightgreen)|NO|
+|Heap Sort|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(1)-brightgreen)|NO|
 |Bubble Sort	|![](https://img.shields.io/badge/-O(n)-blue)|![](https://img.shields.io/badge/-O(n²)-red)  |![](https://img.shields.io/badge/-O(n²)-red)|![](https://img.shields.io/badge/-O(1)-brightgreen)|YES|
-|Quicksort	|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n²)-red) | ![](https://img.shields.io/badge/-O(log(n))-green)|NO|
-|Mergesort	|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n)-blue)|YES|
-|Timsort	|![](https://img.shields.io/badge/-O(n)-blue)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n)-blue)|YES|
+|Quick Sort	|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n²)-red) | ![](https://img.shields.io/badge/-O(log(n))-green)|NO|
+|Merge Sort	|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n)-blue)|YES|
+|Tim Sort	|![](https://img.shields.io/badge/-O(n)-blue)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n)-blue)|YES|
 |Tree Sort	|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n²)-red) | ![](https://img.shields.io/badge/-O(n)-blue)||
 |Bucket Sort	|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|![](https://img.shields.io/badge/-O(n²)-red)|![](https://img.shields.io/badge/-O(n)-blue)|YES|
 |Radix Sort|![](https://img.shields.io/badge/-O(nk)-brightgreen)|![](https://img.shields.io/badge/-O(nk)-brightgreen)|![](https://img.shields.io/badge/-O(nk)-brightgreen)|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|YES|
 |Counting Sort	|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|![](https://img.shields.io/badge/-O(n+k)-brightgreen)|![](https://img.shields.io/badge/-O(k)-brightgreen)|YES|
-|Cubesort	|![](https://img.shields.io/badge/-O(n)-blue)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n)-blue)||
+|Cube Sort	|![](https://img.shields.io/badge/-O(n)-blue)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n*log(n))-yellow)|![](https://img.shields.io/badge/-O(n)-blue)||
 
 [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 <!--
