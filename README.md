@@ -2,7 +2,7 @@
 I'm Jia Xin, a front-end engineer. I've been engaged in Android development for three years since 2014, and now I'm mainly engaged in React development.
 ## 📫 How to reach me
 - 📧 Email: 847114815@qq.com
-- 📝 Blog:  http://www.traceless.xin
+- 📝 Blog:  https://jxsx.gitee.io
 - 📚 CSDN:  https://blog.csdn.net/jason847
 
 ## 💻Github Stats
